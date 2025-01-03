@@ -1,0 +1,40 @@
+[
+	{
+		"p_relative_url" : "lagger8833/salekart/refs/heads/main/dataset/AdventureWorks_Calendar.csv",
+		"p_directory" : "calendar",
+		"p_file_name" : "calendar.csv"
+	},
+	{
+		"p_relative_url" : "lagger8833/salekart/refs/heads/main/dataset/AdventureWorks_Territories.csv",
+		"p_directory" : "territories",
+		"p_file_name" : "territories.csv"
+	},{
+		"p_relative_url" : "lagger8833/salekart/refs/heads/main/dataset/AdventureWorks_Sales_2017.csv",
+		"p_directory" : "sales",
+		"p_file_name" : "sales-2017.csv"
+	},{
+		"p_relative_url" : "lagger8833/salekart/refs/heads/main/dataset/AdventureWorks_Sales_2016.csv",
+		"p_directory" : "sales",
+		"p_file_name" : "sales-2016.csv"
+	},{
+		"p_relative_url" : "lagger8833/salekart/refs/heads/main/dataset/AdventureWorks_Sales_2015.csv",
+		"p_directory" : "sales",
+		"p_file_name" : "sales-2015.csv"
+	},{
+		"p_relative_url" : "lagger8833/salekart/refs/heads/main/dataset/AdventureWorks_Returns.csv",
+		"p_directory" : "returns",
+		"p_file_name" : "returns.csv"
+	},{
+		"p_relative_url" : "lagger8833/salekart/refs/heads/main/dataset/AdventureWorks_Product_Subcategories.csv",
+		"p_directory" : "products",
+		"p_file_name" : "products_subcategories.csv"
+	},{
+		"p_relative_url" : "lagger8833/salekart/refs/heads/main/dataset/AdventureWorks_Product_Categories.csv",
+		"p_directory" : "products",
+		"p_file_name" : "products_categories.csv"
+	},{
+		"p_relative_url" : "lagger8833/salekart/refs/heads/main/dataset/AdventureWorks_Customers.csv",
+		"p_directory" : "customers",
+		"p_file_name" : "customers.csv"
+	}
+]
